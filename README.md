@@ -1,5 +1,5 @@
 ### Hi, i'm Eryálef! 👋
-I'm a Grad Student🎓 Instituto Federal de Educação, Ciência e Tecnologia do Maranhão majoring in Computer Science. I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new tech.
+I'm a Grad Student🎓 Instituto Federal de Educação, Ciência e Tecnologia do Maranhão majoring in Computer Engineering. I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new tech.
 
 ![Eryálef GitHub stats](https://github-readme-stats.vercel.app/api?username=eryalefvs&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eryalefvs&layout=compact&theme=dracula)
