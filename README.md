@@ -15,5 +15,5 @@ Aspiring student passionate about programming with Node.js and JavaScript, eager
 </div>
 
 ### Contacts
-<a href="eryalef@gmail.com" target="_blank" <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">>
-<a href="linkedin.com/in/eryálef-vieira-da-silva-35b8ba237" target="_blank" <img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)">>
+<a href="eryalef@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="linkedin.com/in/eryálef-vieira-da-silva-35b8ba237" target="_blank"><img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)">
