@@ -2,6 +2,7 @@
 Aspiring student passionate about programming with Node.js and JavaScript, eager to learn and explore new possibilities in the world of technology!
 
 ![Eryálef GitHub stats](https://github-readme-stats.vercel.app/api?username=eryalefvs&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eryalefvs&layout=compact)
 
 ### Skills
 <div>
