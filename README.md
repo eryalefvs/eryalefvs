@@ -2,7 +2,7 @@
 I'm a Grad Student🎓 Instituto Federal de Educação, Ciência e Tecnologia do Maranhão majoring in Computer Engineering. I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new tech.
 
 ![Eryálef GitHub stats](https://github-readme-stats.vercel.app/api?username=eryalefvs&show_icons=true&theme=dracula)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eryalefvs)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eryalefvs&hide_progress=true&theme=dracula)
 
 
 ### ⚙️ Some technologies I use
