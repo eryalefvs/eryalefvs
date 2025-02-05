@@ -3,6 +3,7 @@
 
 ![Eryálef GitHub stats](https://github-readme-stats.vercel.app/api?username=eryalefvs&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eryalefvs&compact=true&theme=synthwave)
+[![Eryálef's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eryalefvs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### ⚙️ Some technologies I use
