@@ -1,7 +1,7 @@
 ### Hi, i'm Eryálef! 👋
 💻 🎸 📚
 
-![Eryálef GitHub stats](https://github-readme-stats.vercel.app/api?username=eryalefvs&show_icons=true&theme=gruvbox)
+![Eryálef GitHub stats](https://github-readme-stats.vercel.app/api?username=eryalefvs&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eryalefvs&langs_count=9&layout=compact&theme=synthwave)
 ![Eryálef's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eryalefvs)
 
