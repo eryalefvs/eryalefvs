@@ -1,8 +1,8 @@
 ### Hi, i'm Eryálef! 👋
 💻 🎸 📚
 
-![Eryálef GitHub stats](https://github-readme-stats.vercel.app/api?username=eryalefvs&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eryalefvs&langs_count=9&layout=compact&theme=synthwave)
+![Eryálef GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=eryalefvs&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eryalefvs&langs_count=9&layout=compact&theme=synthwave)
 
 ### ⚙️ Some technologies I use
 <div>
